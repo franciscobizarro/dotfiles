@@ -1,3 +1,6 @@
 # ~/.dotfiles
---
-Personal configurations for my work enviroment
+
+## about
+Personal configurations for my work environment
+
+
